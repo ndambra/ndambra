@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ndambra
--  I’m currently interested in creating apps and using code for data analysis to assist in fantasy sports
--  My background is mainly in Java but I am always trying to branch out and learn to languages/concepts/etc.
--  I’m currently learning python for data analysis and using my Java knowledge with Android Studio to create apps
+-  I’m currently interested in learning how to create reactive, user-friendly, and quality looking web applications. I've been taking a deep dive into React and learning to create web applications with React and Redux, while also enhancing my JS, HTML, and CSS skills
+-  My background is mainly in Java but I am always trying to branch out and learn new languages/concepts/frameworks/etc. (as in the case above with React)
 
 
 
